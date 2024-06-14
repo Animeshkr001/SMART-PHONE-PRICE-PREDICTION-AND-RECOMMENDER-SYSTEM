@@ -1,1 +1,2 @@
 # SMART-PHONE-PRICE-PREDICTION-AND-RECOMMENDER-SYSTEM
+This project is a smartphone price prediction and recommender system using data on Samsung phones from 2019. By leveraging various features of the phones, such as specifications and market trends, the model predicts the prices and recommends the best options to users. This system aims to assist consumers in making informed purchasing decisions.
